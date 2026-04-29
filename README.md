@@ -1,4 +1,4 @@
-# internshala-automation-tool
+# Internshala-automation-tool
 A browser automation tool built with Node.js and Puppeteer to streamline the internship application workflow on Internshala by automating profile completion and application submission.
 
 **Overview**
